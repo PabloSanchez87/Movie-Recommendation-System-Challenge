@@ -23,6 +23,9 @@ name,user,rating,theme,production_year
 
 This dataset is fundamental for training your recommendation system to understand user preferences and predict movies they might enjoy.
 
+This dataset will be used to create a model able to predict movies that the following users may enjoy:
+- [Users to predict](https://cdn.nuwe.io/challenges-ds-datasets/frogames-mlaz2/users_test.csv)
+
 ### 📊 Data Processing
 
 If you deem it necessary, apply some processing to the data such as encoding, scaling the variables or feature engineering to get new valuable insights.

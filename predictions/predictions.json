@@ -21,14 +21,14 @@
             "Fight Club"
         ],
         "user303": [
-            "Spirited Away",
             "A Separation",
-            "Joker"
+            "Spirited Away",
+            "Alien"
         ],
         "user410": [
             "A Separation",
             "Spirited Away",
-            "Joker"
+            "Alien"
         ],
         "user112": [
             "Fight Club",
@@ -51,8 +51,8 @@
             "A Clockwork Orange"
         ],
         "user368": [
-            "Spirited Away",
             "A Separation",
+            "Spirited Away",
             "Saving Private Ryan"
         ],
         "user421": [
@@ -68,7 +68,7 @@
         "user111": [
             "A Separation",
             "Spirited Away",
-            "Saving Private Ryan"
+            "Terminator 2: Judgment Day"
         ],
         "user454": [
             "The Lion King",
@@ -103,7 +103,7 @@
         "user482": [
             "A Separation",
             "Spirited Away",
-            "Joker"
+            "Alien"
         ],
         "user221": [
             "The Lion King",
@@ -152,18 +152,18 @@
         ],
         "user420": [
             "A Separation",
-            "Terminator 2: Judgment Day",
-            "Spirited Away"
+            "Spirited Away",
+            "Terminator 2: Judgment Day"
         ],
         "user183": [
             "A Separation",
-            "Double Indemnity",
-            "Alien"
+            "Alien",
+            "Double Indemnity"
         ],
         "user144": [
             "The Lion King",
-            "Memento",
-            "Fight Club"
+            "Fight Club",
+            "Memento"
         ],
         "user180": [
             "12 Angry Men",
@@ -183,7 +183,7 @@
         "user218": [
             "A Separation",
             "Spirited Away",
-            "Terminator 2: Judgment Day"
+            "Saving Private Ryan"
         ],
         "user433": [
             "A Separation",
@@ -193,16 +193,16 @@
         "user47": [
             "A Separation",
             "Spirited Away",
-            "Double Indemnity"
+            "Terminator 2: Judgment Day"
         ],
         "user71": [
             "A Separation",
             "Alien",
-            "Requiem for a Dream"
+            "Terminator 2: Judgment Day"
         ],
         "user285": [
-            "A Separation",
             "Spirited Away",
+            "A Separation",
             "Terminator 2: Judgment Day"
         ],
         "user262": [
@@ -228,12 +228,12 @@
         "user472": [
             "A Separation",
             "Spirited Away",
-            "Alien"
+            "Saving Private Ryan"
         ],
         "user457": [
             "Spirited Away",
             "A Separation",
-            "Terminator 2: Judgment Day"
+            "Saving Private Ryan"
         ],
         "user305": [
             "The Shawshank Redemption",
@@ -266,8 +266,8 @@
             "12 Angry Men"
         ],
         "user311": [
-            "12 Angry Men",
             "The Shawshank Redemption",
+            "12 Angry Men",
             "The Godfather Part II"
         ],
         "user32": [
@@ -297,8 +297,8 @@
         ],
         "user67": [
             "The Shawshank Redemption",
-            "The Godfather",
-            "12 Angry Men"
+            "12 Angry Men",
+            "The Godfather"
         ],
         "user306": [
             "The Shawshank Redemption",
@@ -308,7 +308,7 @@
         "user190": [
             "The Shawshank Redemption",
             "The Godfather Part II",
-            "12 Angry Men"
+            "The Godfather"
         ],
         "user435": [
             "The Shawshank Redemption",
@@ -373,7 +373,7 @@
         "user202": [
             "The Shawshank Redemption",
             "The Godfather Part II",
-            "The Godfather"
+            "12 Angry Men"
         ],
         "user307": [
             "The Shawshank Redemption",
@@ -403,7 +403,7 @@
         "user278": [
             "The Shawshank Redemption",
             "The Godfather",
-            "The Godfather Part II"
+            "12 Angry Men"
         ],
         "user5": [
             "The Shawshank Redemption",
@@ -442,8 +442,8 @@
         ],
         "user331": [
             "The Shawshank Redemption",
-            "The Godfather Part II",
-            "12 Angry Men"
+            "12 Angry Men",
+            "The Godfather Part II"
         ],
         "user330": [
             "The Shawshank Redemption",
@@ -458,7 +458,7 @@
         "user417": [
             "The Shawshank Redemption",
             "The Godfather",
-            "The Godfather Part II"
+            "12 Angry Men"
         ],
         "user103": [
             "The Shawshank Redemption",
@@ -483,7 +483,7 @@
         "user119": [
             "The Shawshank Redemption",
             "The Godfather",
-            "Lawrence of Arabia"
+            "The Great Dictator"
         ],
         "user138": [
             "The Godfather Part II",
@@ -526,8 +526,8 @@
             "Terminator 2: Judgment Day"
         ],
         "user191": [
-            "Forrest Gump",
             "The Shawshank Redemption",
+            "Forrest Gump",
             "The Godfather Part II"
         ],
         "user122": [
@@ -542,8 +542,8 @@
         ],
         "user181": [
             "Requiem for a Dream",
-            "Terminator 2: Judgment Day",
-            "Interstellar"
+            "Interstellar",
+            "Terminator 2: Judgment Day"
         ],
         "user162": [
             "Fight Club",

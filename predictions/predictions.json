@@ -1,719 +1,703 @@
 {
     "target": {
-        "user169": [
-            "The Lion King",
-            "A Separation",
-            "Memento"
-        ],
+        "user169": [],
         "user425": [
-            "Fight Club",
-            "A Separation",
-            "Modern Times"
+            "The Thing",
+            "Capernaum",
+            "Requiem for a Dream"
         ],
         "user321": [
-            "Saving Private Ryan",
-            "Fight Club",
-            "Inception"
+            "Capernaum",
+            "The Thing",
+            "Requiem for a Dream"
         ],
         "user329": [
-            "Fight Club",
-            "Saving Private Ryan",
+            "Interstellar",
+            "Cinema Paradiso",
             "Forrest Gump"
         ],
         "user303": [
-            "The Matrix",
-            "Paths of Glory",
-            "The Truman Show"
+            "Joker",
+            "The Lives of Others",
+            "The Departed"
         ],
         "user410": [
-            "A Separation",
-            "Up",
-            "Sunset Boulevard"
+            "The Lives of Others",
+            "Joker",
+            "The Departed"
         ],
         "user112": [
-            "A Separation",
-            "Fight Club",
-            "Seven Samurai"
+            "The Thing",
+            "Capernaum",
+            "Requiem for a Dream"
         ],
         "user283": [
-            "The Matrix",
-            "Inglourious Basterds",
-            "The Truman Show"
+            "Saving Private Ryan",
+            "Paths of Glory",
+            "The Hunt"
         ],
         "user203": [
-            "Paths of Glory",
-            "Forrest Gump",
-            "Spirited Away"
+            "The Shining",
+            "Gone Girl",
+            "A Separation"
         ],
-        "user375": [
-            "The Lion King",
-            "A Separation",
-            "Memento"
-        ],
+        "user375": [],
         "user368": [
-            "Saving Private Ryan",
-            "Fight Club",
-            "Inception"
+            "Capernaum",
+            "The Thing",
+            "Requiem for a Dream"
         ],
         "user421": [
-            "Inglourious Basterds",
-            "The Matrix",
-            "Paths of Glory"
+            "The Thing",
+            "Capernaum",
+            "Requiem for a Dream"
         ],
         "user288": [
-            "A Separation",
-            "Fight Club",
-            "Seven Samurai"
+            "Back to the Future",
+            "Alien",
+            "Star Wars: Episode IV - A New Hope"
         ],
         "user111": [
-            "Spirited Away",
-            "Grave of the Fireflies",
-            "Memento"
+            "Wall-E",
+            "Fight Club",
+            "Modern Times"
         ],
         "user454": [
-            "The Matrix",
-            "Spirited Away",
-            "Once Upon a Time in America"
+            "Requiem for a Dream",
+            "Capernaum",
+            "Psycho"
         ],
         "user164": [
-            "Forrest Gump",
-            "Saving Private Ryan",
-            "It's a Wonderful Life"
-        ],
-        "user317": [
-            "Fight Club",
-            "A Separation",
-            "Inception"
-        ],
-        "user215": [
-            "Forrest Gump",
-            "Paths of Glory",
-            "A Clockwork Orange"
-        ],
-        "user58": [
-            "Inglourious Basterds",
-            "Once Upon a Time in America",
-            "A Separation"
-        ],
-        "user456": [
-            "The Matrix",
-            "A Separation",
-            "Seven Samurai"
-        ],
-        "user482": [
-            "A Separation",
-            "Your Name",
-            "Up"
-        ],
-        "user221": [
-            "The Matrix",
-            "Paths of Glory",
-            "Inglourious Basterds"
-        ],
-        "user158": [
-            "Terminator 2: Judgment Day",
-            "Spirited Away",
-            "The Shining"
-        ],
-        "user94": [
-            "Pulp Fiction",
-            "Spirited Away",
-            "Inception"
-        ],
-        "user491": [
-            "A Separation",
-            "The Matrix",
-            "Seven Samurai"
-        ],
-        "user92": [
-            "Saving Private Ryan",
-            "A Clockwork Orange",
-            "Forrest Gump"
-        ],
-        "user140": [
-            "Forrest Gump",
-            "Fight Club",
-            "Paths of Glory"
-        ],
-        "user69": [
-            "Paths of Glory",
-            "A Clockwork Orange",
-            "Forrest Gump"
-        ],
-        "user495": [
-            "The Matrix",
-            "Inglourious Basterds",
-            "Paths of Glory"
-        ],
-        "user219": [
-            "Forrest Gump",
-            "Fight Club",
-            "Paths of Glory"
-        ],
-        "user420": [
-            "Whiplash",
-            "Fight Club",
-            "Saving Private Ryan"
-        ],
-        "user183": [
-            "Terminator 2: Judgment Day",
-            "Avengers: Infinity War",
-            "Interstellar"
-        ],
-        "user144": [
-            "Saving Private Ryan",
-            "Fight Club",
-            "Interstellar"
-        ],
-        "user180": [
-            "The Lion King",
-            "A Separation",
-            "Memento"
-        ],
-        "user145": [
-            "Paths of Glory",
-            "Spirited Away",
-            "Once Upon a Time in America"
-        ],
-        "user15": [
-            "Paths of Glory",
-            "Inglourious Basterds",
-            "Once Upon a Time in America"
-        ],
-        "user218": [
-            "Paths of Glory",
-            "Inglourious Basterds",
-            "The Matrix"
-        ],
-        "user433": [
-            "Saving Private Ryan",
-            "Forrest Gump",
+            "Capernaum",
+            "Requiem for a Dream",
             "The Thing"
         ],
-        "user47": [
-            "Inception",
-            "Whiplash",
-            "Pulp Fiction"
-        ],
-        "user71": [
-            "Forrest Gump",
-            "Saving Private Ryan",
-            "Fight Club"
-        ],
-        "user285": [
-            "A Clockwork Orange",
-            "Fight Club",
+        "user317": [
+            "Alien",
+            "Paths of Glory",
             "Saving Private Ryan"
         ],
+        "user215": [
+            "Capernaum",
+            "Requiem for a Dream",
+            "The Thing"
+        ],
+        "user58": [
+            "Wall-E",
+            "Fight Club",
+            "Modern Times"
+        ],
+        "user456": [
+            "The Departed",
+            "Joker",
+            "The Lives of Others"
+        ],
+        "user482": [
+            "The Departed",
+            "The Shining",
+            "Gone Girl"
+        ],
+        "user221": [
+            "The Thing",
+            "Capernaum",
+            "Requiem for a Dream"
+        ],
+        "user158": [
+            "The Thing",
+            "Capernaum",
+            "Requiem for a Dream"
+        ],
+        "user94": [
+            "Capernaum",
+            "Requiem for a Dream",
+            "The Thing"
+        ],
+        "user491": [
+            "Modern Times",
+            "One Flew Over the Cuckoo's Nest",
+            "Double Indemnity"
+        ],
+        "user92": [
+            "Capernaum",
+            "The Thing",
+            "Requiem for a Dream"
+        ],
+        "user140": [
+            "The Shining",
+            "The Departed",
+            "Gone Girl"
+        ],
+        "user69": [
+            "Double Indemnity",
+            "The Hunt",
+            "One Flew Over the Cuckoo's Nest"
+        ],
+        "user495": [
+            "Joker",
+            "The Lives of Others",
+            "The Departed"
+        ],
+        "user219": [
+            "Joker",
+            "The Departed",
+            "The Lives of Others"
+        ],
+        "user420": [
+            "The Thing",
+            "Capernaum",
+            "Requiem for a Dream"
+        ],
+        "user183": [
+            "Wall-E",
+            "Modern Times",
+            "One Flew Over the Cuckoo's Nest"
+        ],
+        "user144": [
+            "The Thing",
+            "Capernaum",
+            "Requiem for a Dream"
+        ],
+        "user180": [],
+        "user145": [
+            "Requiem for a Dream",
+            "Capernaum",
+            "Psycho"
+        ],
+        "user15": [
+            "One Flew Over the Cuckoo's Nest",
+            "Modern Times",
+            "Double Indemnity"
+        ],
+        "user218": [
+            "Modern Times",
+            "One Flew Over the Cuckoo's Nest",
+            "Double Indemnity"
+        ],
+        "user433": [
+            "Capernaum",
+            "The Thing",
+            "Requiem for a Dream"
+        ],
+        "user47": [
+            "The Hunt",
+            "Double Indemnity",
+            "One Flew Over the Cuckoo's Nest"
+        ],
+        "user71": [
+            "Capernaum",
+            "Requiem for a Dream",
+            "The Thing"
+        ],
+        "user285": [
+            "The Thing",
+            "Capernaum",
+            "Requiem for a Dream"
+        ],
         "user262": [
-            "Forrest Gump",
-            "Paths of Glory",
-            "A Clockwork Orange"
+            "Coco",
+            "Your Name",
+            "The Good, the Bad and the Ugly"
         ],
         "user268": [
-            "A Separation",
-            "The Matrix",
-            "Inglourious Basterds"
+            "Requiem for a Dream",
+            "Psycho",
+            "Se7en"
         ],
-        "user407": [
-            "The Lion King",
-            "A Separation",
-            "Memento"
-        ],
+        "user407": [],
         "user426": [
-            "A Separation",
-            "Fight Club",
-            "Seven Samurai"
+            "Psycho",
+            "Se7en",
+            "Requiem for a Dream"
         ],
         "user472": [
-            "Fight Club",
-            "Inception",
-            "A Separation"
+            "Joker",
+            "The Lives of Others",
+            "The Departed"
         ],
         "user457": [
-            "Saving Private Ryan",
-            "Forrest Gump",
-            "Fight Club"
+            "The Thing",
+            "Capernaum",
+            "Requiem for a Dream"
         ],
         "user305": [
-            "The Godfather Part II",
             "12 Angry Men",
+            "The Godfather Part II",
             "The Godfather"
         ],
         "user341": [
-            "The Dark Knight",
-            "Oldboy",
-            "12 Angry Men"
+            "12 Angry Men",
+            "The Godfather Part II",
+            "The Godfather"
         ],
         "user48": [
-            "The Godfather",
+            "12 Angry Men",
             "The Godfather Part II",
-            "Oldboy"
+            "The Godfather"
         ],
         "user68": [
+            "12 Angry Men",
             "The Godfather Part II",
-            "Oldboy",
-            "12 Angry Men"
+            "The Godfather"
         ],
         "user480": [
-            "The Shawshank Redemption",
-            "The Dark Knight",
-            "Oldboy"
+            "12 Angry Men",
+            "The Godfather Part II",
+            "The Godfather"
         ],
         "user486": [
+            "12 Angry Men",
             "The Godfather Part II",
-            "The Godfather",
-            "12 Angry Men"
+            "The Godfather"
         ],
         "user311": [
-            "The Godfather",
-            "Oldboy",
-            "The Shawshank Redemption"
+            "12 Angry Men",
+            "The Godfather Part II",
+            "The Godfather"
         ],
         "user32": [
-            "The Dark Knight",
-            "The Shawshank Redemption",
-            "12 Angry Men"
+            "12 Angry Men",
+            "The Godfather Part II",
+            "The Godfather"
         ],
         "user250": [
-            "The Dark Knight",
             "12 Angry Men",
-            "The Godfather Part II"
+            "The Godfather Part II",
+            "The Godfather"
         ],
         "user91": [
+            "12 Angry Men",
             "The Godfather Part II",
-            "Oldboy",
-            "12 Angry Men"
+            "The Godfather"
         ],
         "user323": [
-            "The Shawshank Redemption",
-            "The Dark Knight",
-            "12 Angry Men"
+            "12 Angry Men",
+            "The Godfather Part II",
+            "The Godfather"
         ],
         "user120": [
-            "The Dark Knight",
             "12 Angry Men",
-            "The Godfather Part II"
+            "The Godfather Part II",
+            "The Godfather"
         ],
         "user67": [
-            "The Shawshank Redemption",
+            "12 Angry Men",
             "The Godfather Part II",
-            "Oldboy"
+            "The Godfather"
         ],
         "user306": [
-            "The Godfather",
-            "The Shawshank Redemption",
-            "Oldboy"
+            "12 Angry Men",
+            "The Godfather Part II",
+            "The Godfather"
         ],
         "user190": [
-            "The Dark Knight",
+            "12 Angry Men",
             "The Godfather Part II",
             "The Godfather"
         ],
         "user435": [
-            "The Dark Knight",
+            "12 Angry Men",
             "The Godfather Part II",
-            "12 Angry Men"
+            "The Godfather"
         ],
         "user290": [
             "12 Angry Men",
             "The Godfather Part II",
-            "Oldboy"
+            "The Godfather"
         ],
         "user143": [
-            "The Dark Knight",
             "12 Angry Men",
-            "The Godfather Part II"
+            "The Godfather Part II",
+            "The Godfather"
         ],
         "user147": [
-            "The Dark Knight",
-            "The Shawshank Redemption",
-            "12 Angry Men"
+            "12 Angry Men",
+            "The Godfather Part II",
+            "The Godfather"
         ],
         "user294": [
-            "The Godfather",
+            "12 Angry Men",
             "The Godfather Part II",
-            "Oldboy"
+            "The Godfather"
         ],
         "user313": [
-            "The Godfather",
-            "Oldboy",
-            "12 Angry Men"
+            "12 Angry Men",
+            "The Godfather Part II",
+            "The Godfather"
         ],
         "user312": [
-            "The Godfather",
-            "Oldboy",
-            "The Godfather Part II"
+            "12 Angry Men",
+            "The Godfather Part II",
+            "The Godfather"
         ],
         "user493": [
-            "The Godfather",
+            "12 Angry Men",
             "The Godfather Part II",
-            "Oldboy"
+            "The Godfather"
         ],
         "user66": [
-            "The Dark Knight",
-            "The Shawshank Redemption",
-            "12 Angry Men"
+            "12 Angry Men",
+            "The Godfather Part II",
+            "The Godfather"
         ],
         "user35": [
-            "The Dark Knight",
+            "12 Angry Men",
             "The Godfather Part II",
-            "Oldboy"
+            "The Shawshank Redemption"
         ],
         "user343": [
-            "The Dark Knight",
-            "The Godfather",
-            "Oldboy"
+            "12 Angry Men",
+            "The Godfather Part II",
+            "The Godfather"
         ],
         "user174": [
-            "The Shawshank Redemption",
-            "The Godfather",
-            "Oldboy"
+            "12 Angry Men",
+            "The Godfather Part II",
+            "The Godfather"
         ],
         "user202": [
-            "The Dark Knight",
-            "The Shawshank Redemption",
-            "12 Angry Men"
+            "12 Angry Men",
+            "The Godfather Part II",
+            "The Godfather"
         ],
         "user307": [
-            "The Godfather",
-            "The Dark Knight",
-            "The Godfather Part II"
+            "12 Angry Men",
+            "The Godfather Part II",
+            "The Godfather"
         ],
         "user234": [
-            "The Shawshank Redemption",
+            "12 Angry Men",
             "The Godfather Part II",
-            "12 Angry Men"
+            "The Godfather"
         ],
         "user443": [
+            "12 Angry Men",
             "The Godfather Part II",
-            "The Godfather",
-            "Oldboy"
+            "The Godfather"
         ],
         "user346": [
-            "The Dark Knight",
-            "The Shawshank Redemption",
-            "12 Angry Men"
+            "12 Angry Men",
+            "The Godfather Part II",
+            "The Godfather"
         ],
         "user129": [
-            "The Godfather",
-            "Oldboy",
-            "The Godfather Part II"
+            "12 Angry Men",
+            "The Godfather Part II",
+            "The Godfather"
         ],
         "user278": [
-            "The Godfather",
+            "12 Angry Men",
             "The Godfather Part II",
-            "Oldboy"
+            "The Godfather"
         ],
         "user5": [
-            "The Shawshank Redemption",
-            "The Godfather",
-            "Oldboy"
+            "12 Angry Men",
+            "The Godfather Part II",
+            "The Godfather"
         ],
         "user402": [
-            "The Godfather",
+            "12 Angry Men",
             "The Godfather Part II",
-            "Oldboy"
+            "The Godfather"
         ],
         "user362": [
-            "The Godfather",
-            "The Shawshank Redemption",
-            "The Godfather Part II"
+            "12 Angry Men",
+            "The Godfather Part II",
+            "The Godfather"
         ],
         "user327": [
-            "The Shawshank Redemption",
+            "12 Angry Men",
             "The Godfather Part II",
-            "12 Angry Men"
+            "The Godfather"
         ],
         "user431": [
-            "The Godfather",
-            "The Dark Knight",
-            "Oldboy"
+            "12 Angry Men",
+            "The Godfather Part II",
+            "The Godfather"
         ],
         "user468": [
-            "The Shawshank Redemption",
-            "Oldboy",
+            "12 Angry Men",
+            "The Godfather Part II",
             "The Godfather"
         ],
         "user214": [
-            "The Shawshank Redemption",
-            "The Dark Knight",
-            "12 Angry Men"
+            "12 Angry Men",
+            "The Godfather Part II",
+            "The Godfather"
         ],
         "user331": [
-            "The Godfather",
-            "Oldboy",
-            "The Godfather Part II"
+            "12 Angry Men",
+            "The Godfather Part II",
+            "The Godfather"
         ],
         "user330": [
-            "The Shawshank Redemption",
-            "The Godfather",
-            "Oldboy"
+            "12 Angry Men",
+            "The Godfather Part II",
+            "The Godfather"
         ],
         "user296": [
-            "The Shawshank Redemption",
-            "The Dark Knight",
-            "12 Angry Men"
+            "12 Angry Men",
+            "The Godfather Part II",
+            "The Godfather"
         ],
         "user417": [
-            "The Shawshank Redemption",
-            "The Godfather",
-            "The Dark Knight"
+            "12 Angry Men",
+            "The Godfather Part II",
+            "The Godfather"
         ],
         "user103": [
-            "The Shawshank Redemption",
+            "12 Angry Men",
             "The Godfather Part II",
-            "12 Angry Men"
+            "The Godfather"
         ],
         "user7": [
-            "Interstellar",
-            "The Shawshank Redemption",
-            "Requiem for a Dream"
+            "The Truman Show",
+            "Once Upon a Time in America",
+            "The Lord of the Rings: The Two Towers"
         ],
         "user46": [
-            "The Shawshank Redemption",
-            "Fight Club",
-            "Interstellar"
+            "The Truman Show",
+            "The Lord of the Rings: The Two Towers",
+            "Once Upon a Time in America"
         ],
         "user115": [
-            "Interstellar",
-            "The Shawshank Redemption",
-            "Requiem for a Dream"
+            "The Truman Show",
+            "Once Upon a Time in America",
+            "The Lord of the Rings: The Two Towers"
         ],
         "user119": [
-            "Saving Private Ryan",
-            "Fight Club",
-            "Avengers: Infinity War"
+            "Seven Samurai",
+            "Inglourious Basterds",
+            "Am\u00e9lie"
         ],
         "user138": [
-            "The Dark Knight",
-            "Forrest Gump",
-            "12 Angry Men"
+            "Raiders of the Lost Ark",
+            "The Dark Knight Rises",
+            "It's a Wonderful Life"
         ],
         "user170": [
-            "The Shining",
-            "Spirited Away",
-            "The Pianist"
+            "Wall-E",
+            "Modern Times",
+            "One Flew Over the Cuckoo's Nest"
         ],
         "user161": [
-            "Pulp Fiction",
-            "Spirited Away",
-            "Schindler's List"
+            "Paths of Glory",
+            "Alien",
+            "The Godfather Part II"
         ],
         "user9": [
-            "Interstellar",
-            "Avengers: Infinity War",
-            "Saving Private Ryan"
+            "Seven Samurai",
+            "Inglourious Basterds",
+            "Am\u00e9lie"
         ],
         "user155": [
-            "Interstellar",
-            "Avengers: Infinity War",
-            "Saving Private Ryan"
+            "Seven Samurai",
+            "Inglourious Basterds",
+            "Am\u00e9lie"
         ],
         "user97": [
-            "The Dark Knight",
-            "The Shining",
-            "12 Angry Men"
+            "Wall-E",
+            "Modern Times",
+            "One Flew Over the Cuckoo's Nest"
         ],
         "user163": [
-            "Schindler's List",
-            "City of God",
-            "Back to the Future"
+            "Wall-E",
+            "Modern Times",
+            "One Flew Over the Cuckoo's Nest"
         ],
         "user49": [
-            "Once Upon a Time in the West",
-            "Grave of the Fireflies",
-            "Saving Private Ryan"
+            "The Truman Show",
+            "Once Upon a Time in America",
+            "The Lord of the Rings: The Two Towers"
         ],
         "user191": [
-            "The Dark Knight",
-            "Oldboy",
-            "12 Angry Men"
+            "One Flew Over the Cuckoo's Nest",
+            "Double Indemnity",
+            "The Hunt"
         ],
         "user122": [
-            "Spirited Away",
-            "Avengers: Infinity War",
-            "Lawrence of Arabia"
+            "The Dark Knight",
+            "Cinema Paradiso",
+            "Forrest Gump"
         ],
         "user187": [
-            "Forrest Gump",
-            "Saving Private Ryan",
-            "The Thing"
+            "Raiders of the Lost Ark",
+            "The Dark Knight Rises",
+            "Harakiri"
         ],
         "user181": [
-            "Casablanca",
-            "The Thing",
-            "The Prestige"
+            "Raiders of the Lost Ark",
+            "The Dark Knight Rises",
+            "Harakiri"
         ],
         "user162": [
-            "12 Angry Men",
-            "Interstellar",
-            "The Godfather Part II"
+            "The Truman Show",
+            "The Lord of the Rings: The Two Towers",
+            "Once Upon a Time in America"
         ],
         "user150": [
-            "Saving Private Ryan",
-            "Schindler's List",
-            "Avengers: Infinity War"
+            "The Lord of the Rings: The Return of the King",
+            "American History X",
+            "Braveheart"
         ],
         "user56": [
-            "Interstellar",
-            "The Shawshank Redemption",
-            "Requiem for a Dream"
+            "The Truman Show",
+            "Once Upon a Time in America",
+            "The Lord of the Rings: The Two Towers"
         ],
         "user153": [
-            "Interstellar",
-            "Avengers: Infinity War",
-            "Fight Club"
+            "Seven Samurai",
+            "Inglourious Basterds",
+            "Am\u00e9lie"
         ],
         "user42": [
-            "Spirited Away",
-            "The Shining",
-            "The Great Dictator"
+            "Wall-E",
+            "Modern Times",
+            "One Flew Over the Cuckoo's Nest"
         ],
         "user64": [
-            "Avengers: Infinity War",
-            "Interstellar",
-            "American History X"
+            "Seven Samurai",
+            "Inglourious Basterds",
+            "Am\u00e9lie"
         ],
         "user194": [
-            "Casablanca",
-            "The Thing",
-            "Saving Private Ryan"
+            "Raiders of the Lost Ark",
+            "The Dark Knight Rises",
+            "1917"
         ],
         "user11": [
-            "Avengers: Infinity War",
-            "Interstellar",
-            "Terminator 2: Judgment Day"
+            "Seven Samurai",
+            "Inglourious Basterds",
+            "Am\u00e9lie"
         ],
         "user2": [
-            "The Dark Knight",
-            "12 Angry Men",
-            "The Godfather Part II"
+            "The Hunt",
+            "Paths of Glory",
+            "Double Indemnity"
         ],
         "user125": [
-            "Pulp Fiction",
-            "Spirited Away",
-            "Schindler's List"
+            "Paths of Glory",
+            "Alien",
+            "The Godfather Part II"
         ],
         "user156": [
-            "Oldboy",
-            "12 Angry Men",
-            "The Godfather Part II"
+            "The Lives of Others",
+            "Joker",
+            "The Departed"
         ],
         "user105": [
-            "The Shawshank Redemption",
-            "Saving Private Ryan",
-            "12 Angry Men"
+            "Cinema Paradiso",
+            "Interstellar",
+            "Forrest Gump"
         ],
         "user95": [
-            "The Godfather Part II",
-            "Oldboy",
-            "The Shawshank Redemption"
+            "The Lives of Others",
+            "Joker",
+            "The Departed"
         ],
         "user51": [
-            "Schindler's List",
-            "Inglourious Basterds",
-            "Lawrence of Arabia"
+            "Fight Club",
+            "Modern Times",
+            "Wall-E"
         ],
         "user1": [
-            "12 Angry Men",
-            "The Dark Knight",
-            "The Godfather Part II"
+            "Blade Runner",
+            "Coco",
+            "Your Name"
         ],
         "user75": [
-            "Saving Private Ryan",
-            "Schindler's List",
-            "Fight Club"
+            "The Lord of the Rings: The Return of the King",
+            "American History X",
+            "Braveheart"
         ],
         "user199": [
-            "The Thing",
-            "Saving Private Ryan",
-            "Casablanca"
+            "Raiders of the Lost Ark",
+            "The Dark Knight Rises",
+            "1917"
         ],
         "user136": [
-            "Spirited Away",
-            "The Shining",
-            "The Great Dictator"
+            "Wall-E",
+            "Modern Times",
+            "One Flew Over the Cuckoo's Nest"
         ],
         "user113": [
-            "The Shawshank Redemption",
-            "12 Angry Men",
+            "Cinema Paradiso",
+            "Interstellar",
             "Forrest Gump"
         ],
         "user59": [
-            "12 Angry Men",
-            "The Dark Knight",
-            "The Godfather Part II"
+            "Blade Runner",
+            "Coco",
+            "Your Name"
         ],
         "user127": [
-            "12 Angry Men",
-            "The Dark Knight",
-            "The Godfather Part II"
+            "Blade Runner",
+            "Coco",
+            "Your Name"
         ],
         "user26": [
-            "The Shawshank Redemption",
-            "12 Angry Men",
-            "Oldboy"
+            "Cinema Paradiso",
+            "Interstellar",
+            "Forrest Gump"
         ],
         "user31": [
-            "Interstellar",
-            "Avengers: Infinity War",
-            "Fight Club"
+            "Seven Samurai",
+            "Inglourious Basterds",
+            "Am\u00e9lie"
         ],
         "user185": [
-            "Interstellar",
-            "The Shawshank Redemption",
-            "Requiem for a Dream"
+            "The Truman Show",
+            "Once Upon a Time in America",
+            "The Lord of the Rings: The Two Towers"
         ],
         "user139": [
-            "Saving Private Ryan",
-            "Schindler's List",
-            "Inglourious Basterds"
+            "The Lord of the Rings: The Return of the King",
+            "American History X",
+            "Braveheart"
         ],
         "user40": [
-            "The Shawshank Redemption",
-            "12 Angry Men",
-            "The Godfather Part II"
+            "The Lives of Others",
+            "Joker",
+            "The Departed"
         ],
         "user189": [
-            "The Shawshank Redemption",
-            "Interstellar",
-            "Requiem for a Dream"
+            "The Truman Show",
+            "Once Upon a Time in America",
+            "The Lord of the Rings: The Two Towers"
         ],
         "user80": [
-            "Saving Private Ryan",
-            "Schindler's List",
-            "Inglourious Basterds"
+            "The Lord of the Rings: The Return of the King",
+            "American History X",
+            "Braveheart"
         ],
         "user29": [
-            "The Godfather Part II",
-            "Oldboy",
-            "12 Angry Men"
+            "The Lives of Others",
+            "Joker",
+            "The Departed"
         ],
         "user160": [
-            "Spirited Away",
-            "Grave of the Fireflies",
+            "The Dark Knight",
+            "Cinema Paradiso",
             "Forrest Gump"
         ],
         "user55": [
-            "The Shawshank Redemption",
-            "12 Angry Men",
-            "The Godfather Part II"
+            "Cinema Paradiso",
+            "Interstellar",
+            "Forrest Gump"
         ],
         "user6": [
-            "Spirited Away",
-            "Grave of the Fireflies",
+            "The Dark Knight",
+            "Cinema Paradiso",
             "Forrest Gump"
         ],
         "user85": [
-            "Spirited Away",
-            "The Shining",
-            "The Great Dictator"
+            "Wall-E",
+            "Modern Times",
+            "One Flew Over the Cuckoo's Nest"
         ],
         "user177": [
-            "The Shawshank Redemption",
-            "Interstellar",
-            "Fight Club"
+            "The Truman Show",
+            "The Lord of the Rings: The Two Towers",
+            "Once Upon a Time in America"
         ]
     }
 }

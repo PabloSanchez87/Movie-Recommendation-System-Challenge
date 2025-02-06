@@ -4,7 +4,9 @@ Category   ➡️   Data Science
 
 Subcategory   ➡️   Data Scientist
 
-Difficulty   ➡️   Easy
+Puntuation   ➡️   74%
+
+![alt text](image.png)
 
 ## 🌐 Background
 

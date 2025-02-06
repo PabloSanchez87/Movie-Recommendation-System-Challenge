@@ -4,7 +4,7 @@ Category   ➡️   Data Science
 
 Subcategory   ➡️   Data Scientist
 
-Puntuation   ➡️   74%
+Punctuation   ➡️   74%
 
 ![alt text](image.png)
 
